@@ -1937,10 +1937,10 @@
     lodash "^4.17.21"
     luxon "^1.26.0"
 
-"@tryghost/members-csv@1.2.8":
-  version "1.2.8"
-  resolved "https://registry.yarnpkg.com/@tryghost/members-csv/-/members-csv-1.2.8.tgz#33189fbdc011edb9a0123b08db830c701518ea45"
-  integrity sha512-cFt7kilHW+z/C+FtuN+BGlD7Cza/umV8rjvyK6EcWi4KORPYKt5vFcqim0g3rllIJjJhpteeZYNyKNKvhWZRXQ==
+"@tryghost/members-csv@1.2.9":
+  version "1.2.9"
+  resolved "https://registry.yarnpkg.com/@tryghost/members-csv/-/members-csv-1.2.9.tgz#42f60a3ba8870b7c103c919dad28cac451863133"
+  integrity sha512-XjkEyqhZ3p2hxkR2YDAaKgsNQNpu+EDwyPui8zLz0u2SgvNCZNTGtDwIsR8j6rGoVHzo6tLkn/N77Wlb6B6Axw==
   dependencies:
     bluebird "^3.7.2"
     fs-extra "^10.0.0"
